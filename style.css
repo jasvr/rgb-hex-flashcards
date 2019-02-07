@@ -4,16 +4,39 @@ background-color: #F7F7F7;
 font-family: 'Lato', sans-serif;
 }
 
-/*.container{
-	display: grid | inline-grid;
-}*/
-
-/*------------header------------*/
-
 *{
 	margin: 0;
 	padding: 0;
 }
+
+/*.container{
+	display: grid | inline-grid;
+}*/
+
+
+
+
+
+/*------------main------------*/
+
+
+
+/*------------1-home page------------*/
+
+
+
+
+
+/*------------2-history-exp------------*/
+
+
+
+/*------------3-level1------------*/
+
+
+/*------------header------------*/
+
+
 
 .grid div:nth-child(even){
 	background-color: red;
@@ -94,21 +117,3 @@ font-family: 'Lato', sans-serif;
 	grid-column: 1 /3;
 
 }*/
-
-
-
-/*------------main------------*/
-
-
-
-/*------------1-home page------------*/
-
-
-
-
-
-/*------------2-history-exp------------*/
-
-
-
-/*------------3-level1------------*/
